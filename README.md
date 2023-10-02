@@ -1,6 +1,6 @@
 <h1>Hello Everyone👋, I'm Axel</h1>
 
-I’m a recent graduate from the Sepuluh Nopember Institute of Technology with a degree in Biomedical Engineering.
+I’m a recent graduate from the Sepuluh Nopember Institute of Technology.
 
 ![axelnatan](https://komarev.com/ghpvc/?username=axelnatan&label=Views&color=164e63&style=for-the-badge)
 
